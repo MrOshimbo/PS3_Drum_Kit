@@ -7,8 +7,8 @@ Harmonix Drum Kit for Playstation 3
 ## Mac OS X (Sierra)
 1. Plugin drum kit to usb port
 2. Confirm OSX sees your kit:
-'''
+```
 ioreg -p IOUSB
-'''
+```
 3. Then...
 
