@@ -1,0 +1,22 @@
+{
+  "name": "ps3_drum_kit",
+  "version": "0.0.1",
+  "description": "My attempt to convert a Harmonix Drum Kit for Playstation 3 (PS3) in to an electric drum set to practice and learn the drums. =)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrOshimbo/PS3_Drum_Kit.git"
+  },
+  "author": "Oracio Palumbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrOshimbo/PS3_Drum_Kit/issues"
+  },
+  "homepage": "https://github.com/MrOshimbo/PS3_Drum_Kit#readme",
+  "dependencies": {
+    "usb": "^1.5.0"
+  }
+}
