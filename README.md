@@ -12,3 +12,6 @@ ioreg -p IOUSB
 ```
 3. Then...
 
+## Built with 
+* [node-usb](https://github.com/tessel/node-usb) - Library for communicating with USB devices in JavaScript / CoffeeScript.
+
